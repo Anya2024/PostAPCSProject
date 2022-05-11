@@ -1,4 +1,4 @@
-# Quite Okay Image Format Decompiler
+# Twitter Checker?
 
 **Stage 1:**  Proposal
 
